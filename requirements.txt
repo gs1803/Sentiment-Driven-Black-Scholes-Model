@@ -1,0 +1,10 @@
+yfinance==0.2.20
+beautifulsoup4==4.12.2
+pandas==2.0.1
+numpy==1.24.3
+nltk==3.8.1
+scipy==1.10.1
+requests-html==0.10.0
+matplotlib==3.7.1
+ipykernel==6.23.1
+jupyter==1.00
